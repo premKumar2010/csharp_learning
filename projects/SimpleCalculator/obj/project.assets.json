@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prem kumar ayyappan\\Desktop\\csharp_learning\\projects\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\prem kumar ayyappan\\Downloads\\csharp_learning\\projects\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "C:\\Users\\prem kumar ayyappan\\Desktop\\csharp_learning\\projects\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectPath": "C:\\Users\\prem kumar ayyappan\\Downloads\\csharp_learning\\projects\\SimpleCalculator\\SimpleCalculator.csproj",
       "packagesPath": "C:\\Users\\prem kumar ayyappan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prem kumar ayyappan\\Desktop\\csharp_learning\\projects\\SimpleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\prem kumar ayyappan\\Downloads\\csharp_learning\\projects\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,5 +8,5 @@
 /projects/SimpleCalculator/obj/Debug/net10.0/SimpleCalculator.AssemblyInfoInputs.cache
 /.vs
 *.pdf
-/docs
+#/docs
 /projects/SimpleCalculator/obj/Debug/net10.0

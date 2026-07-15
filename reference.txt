@@ -1,3 +1,0 @@
-prime number: https://tutorials.eu/what-is-a-prime-number-and-how-to-generate-prime-numbers-using-c-programming/
-Interview question: https://tutorials.eu/50-interview-questions-for-your-csharp-interview/
-Blog: https://tutorials.eu/blog/
